@@ -1,0 +1,26 @@
+body {
+    background-color: whitesmoke;
+  }
+  
+  h1 {
+    color: black;
+    text-align: left;
+    font-size: x-large;
+    font-weight: 1000;
+  }
+  
+  div>p {
+    font-family: verdana;
+    font-size: 15px;
+    color: grey;
+  }
+  h1 {
+    font-size: 300%;
+    color: blue;
+    font-family: Impact;
+}
+footer>p {
+  font-size: 250%;
+  color: gray;
+  font-style: oblique;
+}

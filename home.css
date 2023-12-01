@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke
+    
+  }
+  
+  h1 {
+    color: gray;
+    text-align: left;
+    font-size: x-large;
+    font-weight: 500;
+  }
+  
+  p {
+    font-family: black;
+    font-size: 15px;
+    color: grey;
+  }
